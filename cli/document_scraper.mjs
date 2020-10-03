@@ -1,4 +1,4 @@
-#!/usr/bin/node --experimental-modules
+#!/usr/bin/env -S node --experimental-modules
 
 import fs from 'fs';
 
